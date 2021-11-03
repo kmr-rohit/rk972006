@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rk972006
+- 👋 Hi, I’m Rohit Kumar 
 - 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning WEB DEV/ML/DSA
 - 💞️ I’m looking to collaborate on ...
